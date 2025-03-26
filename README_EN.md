@@ -1,7 +1,5 @@
 # LifeSync-AI
 
-- [English README](README_EN.md)
-- [Chinese README](README.md)
 
 ## Overview
 **LifeSync-AI** goes beyond traditional task management features, offering a dynamic, AI-driven personal assistant aimed at enhancing life management and decision-making skills. By integrating cross-platform task collaboration, AI-powered suggestions, bill tracking, and real-time environmental feedback, it helps users generate detailed hourly task plans with a single click.
